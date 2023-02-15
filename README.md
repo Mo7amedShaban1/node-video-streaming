@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-cd to video-streaming source directory & run this
+cd to video-streaming source directory & run this:
 
 ```
     npm install
